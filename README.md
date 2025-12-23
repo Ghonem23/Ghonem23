@@ -1,114 +1,107 @@
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](#)
+
 <h1 align="center">Ahmed Hussein</h1>
 <h3 align="center">Java Backend Developer | Software Engineer</h3>
 
 <p align="center">
-I build reliable backend systems using Java, Spring Boot, and RESTful architectures.<br>
-Focused on clean code, scalability, and real-world engineering problems.
+Backend-focused engineer experienced in building scalable APIs and backend systems using Java & Spring Boot.<br>
+Strong foundation in software engineering, clean architecture, and system design.
 </p>
 
 <p align="center">
-<a href="https://github.com/Ghonem23">GitHub</a> •
-<a href="https://www.linkedin.com/in/ahmed-ghonem-277468361">LinkedIn</a> •
-<a href="mailto:ahmghonem23@gmail.com">Email</a>
+<a href="https://github.com/Ghonem23"><b>GitHub</b></a> •
+<a href="https://www.linkedin.com/in/ahmed-ghonem-277468361"><b>LinkedIn</b></a> •
+<a href="mailto:ahmghonem23@gmail.com"><b>Email</b></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- Junior **Java Backend Developer** with hands-on experience in Spring Boot and REST APIs
-- Strong foundation in **OOP, Data Structures, and Software Architecture**
-- Experience with **SQL & NoSQL databases**, authentication, validation, and testing
+- Junior **Java Backend Developer** with hands-on experience in **Spring Boot & REST APIs**
+- Strong background in **OOP, Data Structures, and Software Architecture**
+- Experience with **SQL & NoSQL databases**, authentication, and testing
 - Currently pursuing a **Master’s degree in Software Engineering**
-- Comfortable working with Git, Docker, and Agile teams
+- Comfortable working in **Agile teams** using Git & Docker
 
 ---
 
-## 🧠 Core Technical Skills (What I actually use)
+## 🛠️ Core Technologies
 
-**Backend**
-- Java (Core Java, OOP, Collections, Multithreading)
-- Spring Boot, REST APIs, JPA / Hibernate
-- Authentication, validation, error handling
-
-**Databases**
-- MySQL, PostgreSQL
-- MongoDB, Firebase Firestore
-
-**Testing & Quality**
-- JUnit, Mockito
-- Clean code & layered architecture
-
-**Dev & DevOps**
-- Git & GitHub
-- Docker
-- Maven, Gradle
-- Postman
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+</p>
 
 ---
 
-## 🚀 Selected Projects (Backend-Focused)
+## 🚀 Featured Backend Projects
 
 ### 🔹 Real-Time Chat Application
-**Java | Spring Boot | Firebase | REST & WebSocket**
+**Java • Spring Boot • Firebase • REST & WebSocket**
 
 - Designed and implemented a real-time messaging backend
-- Built REST endpoints and WebSocket communication
-- Integrated Firebase for real-time data sync
-- Focused on scalability and clean separation of concerns
+- REST APIs + WebSocket communication
+- Firebase integration for real-time sync
+- Focus on scalability and clean architecture
 
-👉 Repo: https://github.com/Ghonem23
+🔗 Repository: https://github.com/Ghonem23
 
 ---
 
 ### 🔹 Task Manager REST API
-**Python | Flask | Clean Architecture**
+**Flask • REST • Clean Architecture**
 
-- Designed a modular REST API for task management
-- Implemented full CRUD operations
-- Applied clean architecture principles
-- Proper request validation and error handling
+- Modular backend REST API
+- Full CRUD functionality
+- Request validation & error handling
+- Clean separation of layers
 
-👉 Repo: https://github.com/Ghonem23
+🔗 Repository: https://github.com/Ghonem23
 
 ---
 
 ### 🔹 Face Recognition System
-**Python | OpenCV**
+**Python • OpenCV**
 
-- Implemented a real-time face detection and recognition pipeline
-- Optimized frame processing for better performance
-- Focused on practical computer vision use cases
+- Real-time face detection and recognition
+- Optimized frame processing
+- Practical computer vision pipeline
 
-👉 Repo: https://github.com/Ghonem23
+🔗 Repository: https://github.com/Ghonem23
 
 ---
 
 ### 🔹 Cryptography Algorithms
-**Python | Algorithms**
+**Python • RSA • RC4**
 
-- Implemented RSA and RC4 from scratch
-- Focused on understanding encryption fundamentals
-- Emphasis on correctness and algorithmic clarity
+- Implemented cryptographic algorithms from scratch
+- Focused on correctness and algorithm clarity
 
-👉 Repo: https://github.com/Ghonem23
+🔗 Repository: https://github.com/Ghonem23
 
 ---
 
-## 📌 What I’m Currently Focusing On
+## 📌 Current Focus
 
 - Advanced **Spring Boot** patterns
 - Backend system design
-- Writing cleaner, testable, maintainable code
-- Preparing for backend & Java developer roles
+- Writing testable & maintainable code
+- Preparing for **Java Backend / Software Engineer roles**
 
 ---
 
 ## 📫 Contact
 
-- Email: **ahmghonem23@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/ahmed-ghonem-277468361
-- GitHub: https://github.com/Ghonem23
+- **Email:** ahmghonem23@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/ahmed-ghonem-277468361  
+- **GitHub:** https://github.com/Ghonem23  
 
 ---
 
