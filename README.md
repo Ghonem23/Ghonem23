@@ -10,26 +10,26 @@
 </p>
 
 <p>
-Backend-focused software engineer experienced in building scalable APIs and backend systems.<br>
-Strong foundation in Java, Spring Boot, and software engineering principles, with hands-on experience across multiple backend stacks.
+Backend-oriented software engineer with hands-on experience designing and implementing scalable backend systems and RESTful APIs.  
+Strong foundation in Java, Spring Boot, and core software engineering principles, with practical exposure to multiple backend stacks.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Professional Summary
 
-- Junior **Java Backend Developer** with experience in **Spring Boot & REST APIs**
-- Solid background in **OOP, Data Structures, and Software Architecture**
-- Built and deployed backend systems using **Java, Python, and Node.js**
-- Experience with **SQL & NoSQL databases**, authentication, and testing
+- Java Backend Developer with experience in **Spring Boot, REST APIs, and layered architectures**
+- Solid understanding of **OOP, data structures, and backend design fundamentals**
+- Experience building backend services using **Java, Python, and Node.js**
+- Familiar with **SQL and NoSQL databases**, authentication flows, and API testing
 - Currently pursuing a **Master’s degree in Software Engineering**
 
 ---
 
-## 🛠️ Core Technologies
+## Technical Stack
 
 <p align="left">
-<!-- Backend Languages -->
+<!-- Languages -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
@@ -45,11 +45,11 @@ Strong foundation in Java, Spring Boot, and software engineering principles, wit
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
 
-<!-- Frontend Basics -->
+<!-- Frontend Fundamentals -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
 
-<!-- Dev & DevOps -->
+<!-- Tooling -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
@@ -57,29 +57,29 @@ Strong foundation in Java, Spring Boot, and software engineering principles, wit
 
 ---
 
-## 🚀 What I Build
+## Engineering Focus
 
-- RESTful backend APIs
-- Backend services with clean layered architecture
-- Authentication & authorization systems
+- Backend API design and implementation
+- Clean, maintainable, and testable codebases
+- Layered and modular architectures
 - Database-driven applications
 - Backend systems integrated with frontend clients
-- Tested, maintainable, production-oriented code
+- Practical, production-oriented development
 
-(All projects are available in my GitHub repositories.)
-
----
-
-## 🎯 Current Focus
-
-- Advanced **Spring Boot** and backend design patterns
-- Writing clean, testable, maintainable backend code
-- Backend system design & scalability
-- Preparing for **Backend / Java / Software Engineer roles**
+(All implemented projects are available in the repositories section.)
 
 ---
 
-## 📫 Contact
+## Current Development Focus
+
+- Advanced **Spring Boot** usage and backend patterns
+- Improving code quality, testing practices, and design clarity
+- Backend system scalability and reliability
+- Preparation for **Backend / Java / Software Engineer roles**
+
+---
+
+## Contact
 
 - **Email:** ahmghonem23@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/ahmed-ghonem-277468361  
